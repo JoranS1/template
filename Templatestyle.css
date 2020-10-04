@@ -1,0 +1,35 @@
+body{
+	font-family: Roboto, sans-serif;
+	color:rgba(255,255,255,0,6);
+	background-image: url("achtergrond.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0 auto;
+	height: 100%; width: 100%;
+	overflow: hidden;
+}
+div{
+	text-align: center;
+}
+
+.logo{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform:translate(-50%, -50%);
+	margin: 0 auto;
+}
+nav{
+	color: lightgrey;
+	margin:0 auto;
+	overflow: hidden;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	padding:5px 10px 5px 15px;
+}
+h1{
+	color:white;
+}
+p{
+	color:white;
+}
